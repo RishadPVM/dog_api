@@ -1,4 +1,4 @@
-# json
+# samble dog image api app
 
 A new Flutter project.
 
