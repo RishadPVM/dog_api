@@ -1,4 +1,4 @@
-# samble dog image api app
+# sample dog image api app
 
 A new Flutter project.
 
